@@ -6,7 +6,7 @@ Predicting the aqueous solubility of drugs is notoriously challenging due to the
 
 
 ## Dataset
-Our model correlates molecular properties with solubility with the use of extensive data obtained from delaney data set (1,144 compounds)in https://www.sciencedirect.com/science/article/abs/pii/S0022286021016902?casa_token=_DdP4cRP5gYAAAAA:RtL685PFQC66cnCyk3H0RICxyHB5r-U4D1kImd6-v6SE7j5DuH-sZ5PTswmG0u3mW5YdxH8b 
+This model correlates molecular properties with solubility with the use of extensive data obtained from delaney data set (1,144 compounds)in https://www.sciencedirect.com/science/article/abs/pii/S0022286021016902?casa_token=_DdP4cRP5gYAAAAA:RtL685PFQC66cnCyk3H0RICxyHB5r-U4D1kImd6-v6SE7j5DuH-sZ5PTswmG0u3mW5YdxH8b 
 
 ## Tools/Skills Used
 -Google colab
