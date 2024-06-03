@@ -1,8 +1,8 @@
 
 # Predicting Aqueous Solubility of compounds using Deep learning
 
-In this project, a fully connected Deep Neural Network(DNN) model was built to help predict the aqueous solubility of organic compounds.
-Predicting the aqueous solubility of drugs is notoriously challenging due to the complex interplay of various physicochemical properties and molecular interactions.
+*In this project, a fully connected Deep Neural Network(DNN) model was built to help predict the aqueous solubility of organic compounds.
+Predicting the aqueous solubility of drugs is notoriously challenging due to the complex interplay of various physicochemical properties and molecular interactions.*
 
 
 ## Dataset
